@@ -37,3 +37,14 @@ Publications
 - **Zhuoran Ji**, Cho-Li Wang. ``CTXBack: Enabling low latency GPU context switching via context flashback''. IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2021
 - **Zhuoran Ji**. ``Introduction to Mali GPU Driver'' gitbook, open access 2019
 
+
+Honors and Awards
+======
+- Hong Kong PhD Fellowship (Top 3% among more than 4000 applications) 2018 - 2022
+- Research Grants Council Student Research Supporting Funding 2022
+- Y S and Christabel Lung Postgraduate Scholarship 2018
+- Institute of Electrical and Electronics Engineers (IEEE) Prize}, Hong Kong Section 2017
+- Rosita King Ho Scholarship 2017
+- Undergraduate Research Fellowship 2017
+- The HKU Worldwide Scholarship 2016
+- Dean's Honours List 2015 - 2018
