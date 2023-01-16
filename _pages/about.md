@@ -11,9 +11,11 @@ redirect_from:
 README
 ======
 
-Currently I am a forth-year Ph.D. candidate at The University of Hong Kong under the supervision of Prof. Cho-Li Wang.
 
-Before that, I received my B.S. degree in Computer Science from University of Hong Kong.
+
+I am an assistant professor at School of Cyber Science and Technology, Shandong University. I work broadly on high performance computing related research. 
+
+Before that, I obtained my Ph.D. from The University of Hong Kong under the supervision of Prof. Cho-Li Wang in 2022 and received my B.S. degree in Computer Science from University of Hong Kong in 2018.
 
 
 Research Interests
@@ -43,7 +45,7 @@ Honors and Awards
 - Hong Kong PhD Fellowship (Top 3% among more than 4000 applications) 2018 - 2022
 - Research Grants Council Student Research Supporting Funding 2022
 - Y S and Christabel Lung Postgraduate Scholarship 2018
-- Institute of Electrical and Electronics Engineers (IEEE) Prize}, Hong Kong Section 2017
+- Institute of Electrical and Electronics Engineers (IEEE) Prize, Hong Kong Section 2017
 - Rosita King Ho Scholarship 2017
 - Undergraduate Research Fellowship 2017
 - The HKU Worldwide Scholarship 2016
