@@ -25,7 +25,7 @@ Research Interests
 - Deep Learning & Big Data
 - High Performance Computing
 
-******** 寻找本校本科生参加科研项目 [详情见此](https://jizhuoran.github.io/pages/recruit.html) ********
+******** 寻找本校本科生参加科研项目 [详情见此](https://jizhuoran.github.io/_pages/recruit.html) ********
 
 Publications
 ======
