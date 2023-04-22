@@ -11,8 +11,6 @@ redirect_from:
 README
 ======
 
-
-
 I am an assistant professor at School of Cyber Science and Technology, Shandong University. I work broadly on high performance computing related research. 
 
 Before that, I obtained my Ph.D. from The University of Hong Kong under the supervision of Prof. Cho-Li Wang in 2022 and received my B.S. degree in Computer Science from University of Hong Kong in 2018.
@@ -26,6 +24,8 @@ Research Interests
 - GPU Multitasking System
 - Deep Learning & Big Data
 - High Performance Computing
+
+******** 寻找本校本科生参加科研项目 [详情见此](https://jizhuoran.github.io/pages/recruit.html) ********
 
 Publications
 ======
