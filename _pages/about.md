@@ -16,6 +16,10 @@ I am an assistant professor at School of Cyber Science and Technology, Shandong 
 Before that, I obtained my Ph.D. from The University of Hong Kong under the supervision of Prof. Cho-Li Wang in 2022 and received my B.S. degree in Computer Science from University of Hong Kong in 2018.
 
 
+<font color='red' size=12><b>邀请本校本科生参加科研项目</b></font>
+**[详情见此](/recruit/)**
+
+
 Research Interests
 ======
 
@@ -25,11 +29,13 @@ Research Interests
 - Deep Learning & Big Data
 - High Performance Computing
 
-******** 寻找本校本科生参加科研项目 [详情见此](https://jizhuoran.github.io/_pages/recruit.html) ********
+
+
 
 Publications
 ======
 
+- Xueyu Wu, **Zhuoran Ji**, Cho-Li Wang. *Embedding Communication for Federated Graph Neural Networks with Privacy Guarantees*. International Conference on Distributed Computing Systems (**ICDCS**), To be appear
 - **Zhuoran Ji**, Cho-Li Wang. *Optimizing Aggregate Computation of Graph Neural Networks with a New Style of GPU Programming*. International Conference on Parallel Architectures and Compilation Techniques (**PACT**), 2022
 - **Zhuoran Ji**, Cho-Li Wang. *Efficient Exact K-Nearest Neighbor Graph Construction for Billion-Scale Datasets using GPUs with Tensor Cores*. ACM International Conference on Supercomputing (**ICS**), 2022
 - **Zhuoran Ji**, Cho-Li Wang. *Compiler-Directed Incremental Checkpointing for Low Latency GPU Preemption*. IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2022

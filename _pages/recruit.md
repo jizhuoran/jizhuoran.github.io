@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "招生"
-permalink: /cv/
+title: "寻求本科生加入科研项目"
+permalink: /recruit/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-# 寻求本科生加入科研项目
 
-我们的科研团队正在寻找充满热情、自主学习能力强的优秀本科生加入，共同研究GPU并行计算领域的前沿课题。我们的研究方向主要包括隐私计算并行加速和深度学习并行加速。GPU（图形处理器）并行计算作为一种高性能计算技术，在许多计算密集型任务中表现出显著的优势。GPU拥有大量计算核心，可同时处理众多任务，因此在执行并行计算任务时性能优越。GPU在执行相同任务时通常具有更高的能效比，节能且环保。现代GPU支持通用编程语言，如CUDA和OpenCL，具有较高的灵活性和可编程性，适用于各种领域的问题。
+我们的科研团队正在寻找充满热情、自主学习能力强的优秀本科生加入，共同研究**GPU并行计算**领域的前沿课题。我们的研究方向主要包括隐私计算并行加速和深度学习并行加速。GPU（图形处理器）并行计算作为一种高性能计算技术，在许多计算密集型任务中表现出显著的优势。GPU拥有大量计算核心，可同时处理众多任务，因此在执行并行计算任务时性能优越。GPU在执行相同任务时通常具有更高的能效比，节能且环保。现代GPU支持通用编程语言，如CUDA和OpenCL，具有较高的灵活性和可编程性，适用于各种领域的问题。
 
 **隐私计算**：我们关注同态加密计算（包括全同态、半同态）以及零知识证明技术的加速。同态加密允许在密文上进行计算，从而保证数据隐私安全；零知识证明则可以在不泄露任何信息的情况下证明某个命题的正确性。**我们主要关注如何实现高效地并行执行隐私计算中的基础算子，例如大数模乘，多项式乘法，模数转换，多标量乘法等。**
 
@@ -17,10 +14,12 @@ redirect_from:
 
 **深度学习**：目前主要关注图神经网络和大模型的并行加速。图神经网络作为一种处理图结构数据的有效方法，在社交网络、生物信息学等领域具有广泛应用。而大型模型，如chatgpt，已在自然语言处理等领域取得了显著的成果。通过GPU并行计算技术，我们将为这些模型带来显著的性能提升。此外，我们还关注如何优化上述深度学习技术在国产AI芯片，例如华为昇腾系列等，上的执行效率（重点关注算子实现）。
 
-#### 能力要求：
+## 能力要求：
 * 具备自主学习和自我激励的能力；（最重要的）
-* 对编程感兴趣，有程序性能优化经验者优先；（基本能力，可参考XXX）
--------------------此线以上是基本要求，以下是加分项----------------------
+* **对编程感兴趣，有程序性能优化经验者优先；（基本能力，可参考[GPU学习手册](/intro2GPU/)）**
+
+------------------- 此线以上是基本要求，以下是加分项 ----------------------
+
 * 对深度学习和隐私计算算法有一定了解；（可以现学）
 * 有GPU或其他加速器性能调优经验；（期待合作）
 * 有大型软件系统设计经验。（请带我飞）
@@ -31,56 +30,3 @@ redirect_from:
 
 
 
-
-
-
-{% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -18,5 +18,5 @@ main:
   - title: "招生"
     url: /recruit/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "GPU学习手册"
+    url: /intro2GPU/
