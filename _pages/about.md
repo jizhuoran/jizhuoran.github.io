@@ -16,7 +16,10 @@ I am an assistant professor at School of Cyber Science and Technology, Shandong 
 Before that, I obtained my Ph.D. from The University of Hong Kong under the supervision of Prof. Cho-Li Wang in 2022 and received my B.S. degree in Computer Science from University of Hong Kong in 2018.
 
 
-<font color='red' size=12><b>邀请本校本科生参加科研项目</b></font>
+
+<font color='red' size=8><b>招收深度学习GPU加速；隐私计算(同态加密、零知识证明)GPU加速、通用框架设计等方向的硕士研究生。</b></font>
+
+<font color='red' size=8><b>邀请各年级本科生参与前沿科研项目、大厂(蚂蚁、华为、腾讯等)合作研发项目。</b></font>
 **[详情见此](/recruit/)**
 
 
