@@ -19,7 +19,7 @@ Before that, I obtained my Ph.D. from The University of Hong Kong under the supe
 
 <font color='red'><b>招收深度学习GPU加速；隐私计算(同态加密、零知识证明)GPU加速、通用框架设计等方向的硕士研究生。</b></font>
 
-<br> </br>
+<br>
 
 <font color='red'><b>邀请各年级本科生参与上述科研项目、大厂(蚂蚁、华为、腾讯等)合作研发项目。</b></font>
 **[详情见此](/recruit/)**
