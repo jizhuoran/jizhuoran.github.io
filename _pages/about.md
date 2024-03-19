@@ -21,7 +21,7 @@ Before that, I obtained my Ph.D. from The University of Hong Kong under the supe
 
 <br>
 
-<font color='red'><b>邀请各年级本科生参与上述科研项目、大厂(蚂蚁、华为、腾讯等)合作研发项目。</b></font>
+<font color='red'><b>邀请各年级本科生参与上述科研项目、大型自主开源项目。</b></font>
 **[详情见此](/recruit/)**
 
 
