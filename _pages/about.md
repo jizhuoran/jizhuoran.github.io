@@ -17,7 +17,7 @@ Before that, I obtained my Ph.D. from The University of Hong Kong under the supe
 
 
 
-<font color='red'><b>招收深度学习GPU加速；隐私计算(同态加密、零知识证明)GPU加速、通用框架设计等方向的硕士研究生。</b></font>
+<font color='red'><b>招收深度学习GPU加速；隐私计算(同态加密、零知识证明)GPU加速、隐私计算框架设计、机器学习框架设计、零知识证明示例应用等方向的硕士研究生。</b></font>
 
 <br>
 
