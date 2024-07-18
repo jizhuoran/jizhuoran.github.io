@@ -40,7 +40,10 @@ Research Interests
 Publications
 ======
 
-- Xueyu Wu, **Zhuoran Ji**, Cho-Li Wang. *Embedding Communication for Federated Graph Neural Networks with Privacy Guarantees*. International Conference on Distributed Computing Systems (**ICDCS**), To be appear
+- **Zhuoran Ji**, Jianyu Zhao, Zhaorui Zhang, Jiming Xu, Shoumeng Yan, Lei Ju. *A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs*. IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2024 (To be appear)
+- **Zhuoran Ji**, Zhiyuan Zhang, Jiming Xu, Lei Ju. *Accelerating Multi-Scalar Multiplication for Efficient Zero Knowledge Proofs with Multi-GPU Systems*. International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2024
+- **Zhuoran Ji**, Zhaorui Zhang, Jiming Xu, Lei Ju. *POSTER: Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs*. ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (**PPoPP**), 2024
+- Xueyu Wu, **Zhuoran Ji**, Cho-Li Wang. *Embedding Communication for Federated Graph Neural Networks with Privacy Guarantees*. International Conference on Distributed Computing Systems (**ICDCS**), 2023
 - **Zhuoran Ji**, Cho-Li Wang. *Optimizing Aggregate Computation of Graph Neural Networks with a New Style of GPU Programming*. International Conference on Parallel Architectures and Compilation Techniques (**PACT**), 2022
 - **Zhuoran Ji**, Cho-Li Wang. *Efficient Exact K-Nearest Neighbor Graph Construction for Billion-Scale Datasets using GPUs with Tensor Cores*. ACM International Conference on Supercomputing (**ICS**), 2022
 - **Zhuoran Ji**, Cho-Li Wang. *Compiler-Directed Incremental Checkpointing for Low Latency GPU Preemption*. IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2022
