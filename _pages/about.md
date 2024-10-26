@@ -39,8 +39,8 @@ Research Interests
 
 Publications
 ======
-
-- **Zhuoran Ji**, Jianyu Zhao, Zhaorui Zhang, Jiming Xu, Shoumeng Yan, Lei Ju. *A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs*. IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2024 (To be appear)
+- **Zhuoran Ji**, Jianyu Zhao, Peimin Gao, Xiangkai Yin, Lei Ju. *Accelerating Number Theoretic Transform with Multi-GPU Systems for Efficient Zero Knowledge Proof*. International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025 (To be appear)
+- **Zhuoran Ji**, Jianyu Zhao, Zhaorui Zhang, Jiming Xu, Shoumeng Yan, Lei Ju. *A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs*. IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2024
 - **Zhuoran Ji**, Zhiyuan Zhang, Jiming Xu, Lei Ju. *Accelerating Multi-Scalar Multiplication for Efficient Zero Knowledge Proofs with Multi-GPU Systems*. International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2024
 - **Zhuoran Ji**, Zhaorui Zhang, Jiming Xu, Lei Ju. *POSTER: Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs*. ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (**PPoPP**), 2024
 - Xueyu Wu, **Zhuoran Ji**, Cho-Li Wang. *Embedding Communication for Federated Graph Neural Networks with Privacy Guarantees*. International Conference on Distributed Computing Systems (**ICDCS**), 2023
