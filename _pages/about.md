@@ -39,7 +39,10 @@ Research Interests
 
 Publications
 ======
-- **Zhuoran Ji**, Jianyu Zhao, Peimin Gao, Xiangkai Yin, Lei Ju. *Accelerating Number Theoretic Transform with Multi-GPU Systems for Efficient Zero Knowledge Proof*. International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025 (To be appear)
+- Zhaorui Zhang, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, **Zhuoran Ji**, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello, FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025
+- Yifeng Tang, Huaman Zhou, **Zhuoran Ji**, Cho-Li Wang. *Cube-fx: Mapping Taylor Expansion Onto Matrix Multiplier-Accumulators of Huawei Ascend AI Processors*. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025
+- Haosong Zhao, Junhao Huang, Zihang Chen, Kunxiong Zhu, Donglong Chen,**Zhuoran Ji**, Hongyuan Liu. *VESTA: A Secure and Efficient FHE-based Three-Party Vectorized Evaluation System for Tree Aggregation Models*. ACM Sigmetrics (**Sigmetrics**), 2025
+- **Zhuoran Ji**, Jianyu Zhao, Peimin Gao, Xiangkai Yin, Lei Ju. *Accelerating Number Theoretic Transform with Multi-GPU Systems for Efficient Zero Knowledge Proof*. International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025
 - **Zhuoran Ji**, Jianyu Zhao, Zhaorui Zhang, Jiming Xu, Shoumeng Yan, Lei Ju. *A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs*. IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2024
 - **Zhuoran Ji**, Zhiyuan Zhang, Jiming Xu, Lei Ju. *Accelerating Multi-Scalar Multiplication for Efficient Zero Knowledge Proofs with Multi-GPU Systems*. International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2024
 - **Zhuoran Ji**, Zhaorui Zhang, Jiming Xu, Lei Ju. *POSTER: Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs*. ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (**PPoPP**), 2024
